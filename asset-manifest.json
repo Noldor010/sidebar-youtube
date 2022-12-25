@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidebar-youtube/static/css/main.cfed6f41.css",
+    "main.js": "/sidebar-youtube/static/js/main.c3671b1e.js",
+    "index.html": "/sidebar-youtube/index.html",
+    "main.cfed6f41.css.map": "/sidebar-youtube/static/css/main.cfed6f41.css.map",
+    "main.c3671b1e.js.map": "/sidebar-youtube/static/js/main.c3671b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfed6f41.css",
+    "static/js/main.c3671b1e.js"
+  ]
+}
